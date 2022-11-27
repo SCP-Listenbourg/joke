@@ -1,3 +1,3 @@
-La branche humoristique de SCP Listenbourg.
+SCP humoristiques.
 
 https://scp-listenbourg.github.io/joke/
