@@ -1,3 +1,3 @@
-SCP Humoristiques.
+➡️ https://scp-listenbourg.github.io/joke/
 
-https://scp-listenbourg.github.io/joke/
+SCP Humoristiques.
